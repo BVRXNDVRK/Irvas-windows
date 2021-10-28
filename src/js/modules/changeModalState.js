@@ -27,7 +27,6 @@ const changeModalState = (state) => {
     } else {
       button.removeAttribute('disabled');
       button.style.opacity = 1;
-
     }
   }
 
